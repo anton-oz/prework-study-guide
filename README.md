@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was a way to practice the fundamental concepts of HTML, CSS and JavaScript. The website is used to represent helpful notes for incoming bootcamp students, or anyone who would like to learn basic coding concepts. I learned a lot about the relationships between HTML, CSS, and JavaScript, and feel more confident about the projects I will be working on in the future.
+This project was a way to practice the fundamental concepts of HTML, CSS, and JavaScript. The website is used to represent helpful notes for incoming bootcamp students, or anyone who would like to learn basic coding concepts. I learned a lot about the relationships between HTML, CSS, and JavaScript, and feel more confident about the projects I will be working on in the future.
 
 ## Installation
 
